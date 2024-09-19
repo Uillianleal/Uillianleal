@@ -19,8 +19,13 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" >
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" >
 </div> <br/>
-Cursando Análise e Desenvolvimento de Sistemas na UNIFACEMP - Centro Universitário.<br/> 
-Estou sempre buscando novos conhecimentos e me esforçando ao máximo para ocupar o meu lugar ao sol.
+Tecnólogo em Análise e Desenvolvimento de Sistemas pela UNIFACEMP - Centro Universitário.<br/> 
+Graduado em Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento de software utilizando tecnologias como Java, Spring Boot, React, e bancos de dados SQL. Tenho trabalhado em projetos full stack, incluindo plataformas web e sistemas de gestão, focado em otimização e boas práticas de desenvolvimento.
+
+Atualmente, estou aprimorando minhas habilidades em Docker e AWS, além de buscar novas oportunidades para contribuir em projetos desafiadores e inovadores. Confira meus repositórios para ver algumas das minhas soluções práticas.
+
+🌱 Sempre aprendendo e aberto a novas tecnologias.
+🔗 Conecte-se comigo para discutir tecnologia, colaborações, ou projetos open-source!
 
 ## Email para contato:
 willianleal52@hotmail.com

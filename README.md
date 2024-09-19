@@ -46,6 +46,6 @@ Atualmente, estou aprimorando minhas habilidades em **Docker** e **AWS**, além 
 
 ## 📫 Entre em Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/uillian-leal-santos-06a897161/))
 - [Email](willianleal52@hotmail.com)
 

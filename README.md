@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/uillian-leal-santos-06a897161)
 
 ![Uillian GitHub stats](https://github-readme-stats.vercel.app/api?username=Uillianleal&show_icons=true&theme=dark)
-![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/uillianleal/uillianleal)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=uillianleal.uillianleal)
 
 ## Tecnologia que eu uso no meu dia a dia
 
